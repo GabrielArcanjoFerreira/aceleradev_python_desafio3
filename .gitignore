@@ -1,0 +1,6 @@
+.pytest_cache
+_pycache_
+*.pyc
+output.xml
+requirements.txt
+stdout.txt
